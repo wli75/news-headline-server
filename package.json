@@ -15,10 +15,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "he": "^1.2.0",
     "inversify": "^5.0.1",
-    "inversify-express-utils": "^6.3.2",
+    "inversify-express-utils": "^6.4.3",
     "morgan": "^1.9.1",
     "puppeteer": "^1.20.0",
     "reflect-metadata": "^0.1.13",
